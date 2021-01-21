@@ -46,7 +46,7 @@ const SectionThree: React.FC = () => {
 
 
           <article>
-            <h2>Para poucos e para muitos</h2>
+            <h1>Para poucos e para muitos</h1>
 
             <p>
               Organize uma comunidade de qualquer tamanho com ferramentas de

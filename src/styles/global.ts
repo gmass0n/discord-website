@@ -47,6 +47,7 @@ export default createGlobalStyle`
     text-rendering: optimizeLegibility;
     font-family: 'Whitney', 'Helvetica Neue', Helvetica, Arial ,sans-serif;
     line-height: 1.15;
+    font-display: optional;
   }
 
   button {

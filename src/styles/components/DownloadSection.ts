@@ -28,7 +28,7 @@ export const Content = styled.div`
     justify-content: center;
   }
 
-  h4 {
+  h1 {
     color: ${({ theme }) => theme.colors.text};
     font-size: 28px;
     z-index: 10;

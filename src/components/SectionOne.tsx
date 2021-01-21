@@ -53,9 +53,9 @@ const SectionOne: React.FC = () => {
           />
 
           <article>
-            <h2>
+            <h1>
               Ambientes controlados por convites, com muito espaço pra conversar
-            </h2>
+            </h1>
 
             <p>
               Os servidores Discord são organizados em canais com tópicos para

@@ -21,7 +21,7 @@ const DownloadSection: React.FC = () => {
           />
         </div>
 
-        <h4>Vamos começar sua jornada?</h4>
+        <h1>Vamos começar sua jornada?</h1>
 
         <a
           href="https://discord.com/api/download?platform=osx"

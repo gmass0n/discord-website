@@ -34,7 +34,7 @@ const SectionTwo: React.FC = () => {
       {isContentVisible && (
         <SectionContent>
           <article>
-            <h2>Aqui é fácil se encontrar</h2>
+            <h1>Aqui é fácil se encontrar</h1>
 
             <p>
               Entre no canal de voz quando estiver à toa. Amigos no mesmo

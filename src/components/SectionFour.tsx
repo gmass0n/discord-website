@@ -28,7 +28,7 @@ const SectionFour: React.FC = () => {
       {isContentVisible && (
         <SectionContent isColumn>
           <article>
-            <h2>Tecnologia de conexão confiável</h2>
+            <h1>Tecnologia de conexão confiável</h1>
 
             <p>
               Voz e vídeo de baixa latência, para você conversar como se

@@ -75,7 +75,7 @@ export const SectionContent = styled.div<ISectionContentProps>`
       margin-left: 40px;
     }
 
-    h2 {
+    h1 {
       font-size: 49px;
       color: ${({ theme }) => theme.colors.text};
       font-weight: 700;
