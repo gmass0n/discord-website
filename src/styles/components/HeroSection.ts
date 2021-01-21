@@ -42,22 +42,20 @@ export const Content = styled.div`
   flex-direction: column;
 
   h1 {
-    font-size: 53px;
+    font-size: 56px;
     color: ${({ theme }) => theme.colors.white};
     font-weight: 700;
-    letter-spacing: -2px;
     text-align: center;
     line-height: 120%;
   }
 
   p {
     margin-top: 40px;
-    font-size: 18px;
+    font-size: 20px;
     color: ${({ theme }) => theme.colors.white};
     font-weight: 400;
-    line-height: 33px;
+    line-height: 32px;
     text-align: center;
-    opacity: 0.9;
   }
 
   > div {
@@ -81,7 +79,7 @@ export const Content = styled.div`
 
         height: 56px;
         border-radius: 28px;
-        font-size: 17px;
+        font-size: 20;
         font-weight: 500;
         padding: 0 32px;
         white-space: nowrap;
@@ -113,8 +111,8 @@ export const Content = styled.div`
 
         svg {
           margin-right: 10px;
-          height: 18px;
-          width: 18px;
+          height: 20px;
+          width: 20px;
         }
       }
     }

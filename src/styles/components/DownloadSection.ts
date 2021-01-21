@@ -42,7 +42,7 @@ export const Content = styled.div`
 
     height: 56px;
     border-radius: 28px;
-    font-size: 17px;
+    font-size: 20px;
     font-weight: 500;
     padding: 0 32px;
     white-space: nowrap;
@@ -54,8 +54,8 @@ export const Content = styled.div`
 
     svg {
       margin-right: 10px;
-      height: 18px;
-      width: 18px;
+      height: 20px;
+      width: 20px;
     }
 
     &:hover {

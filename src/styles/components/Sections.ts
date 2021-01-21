@@ -76,22 +76,18 @@ export const SectionContent = styled.div<ISectionContentProps>`
     }
 
     h1 {
-      font-size: 49px;
+      font-size: 48px;
       color: ${({ theme }) => theme.colors.text};
-      font-weight: 700;
       line-height: 120%;
-      letter-spacing: -2px;
       text-align: left;
     }
 
     p {
       margin-top: 25px;
-      font-size: 18px;
+      font-size: 20px;
       color: ${({ theme }) => theme.colors.text};
-      font-weight: 400;
-      line-height: 33px;
+      line-height: 32px;
       text-align: left;
-      opacity: 0.8;
     }
   }
 
