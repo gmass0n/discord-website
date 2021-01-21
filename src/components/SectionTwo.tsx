@@ -50,6 +50,7 @@ const SectionTwo: React.FC = () => {
             objectFit="contain"
             loading="eager"
             quality={100}
+            alt="Imagem estilizada de amigos se reunindo em vários canais de voz."
           />
         </SectionContent>
       )}

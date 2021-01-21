@@ -40,7 +40,7 @@ const NotFound: React.FC = () => {
         </ul>
       </section>
 
-      <Image src={robot} width={580} height={530} objectFit="contain" quality={100}/>
+      <Image src={robot} width={580} height={530} objectFit="contain" quality={100} alt="Robô tentando se reconectar."/>
     </Container>
   );
 };

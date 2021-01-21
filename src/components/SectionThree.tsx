@@ -41,6 +41,7 @@ const SectionThree: React.FC = () => {
             objectFit="contain"
             loading="eager"
             quality={100}
+            alt="Imagem estilizada de amigos em um servidor organizados em funções de Treinador, Líder estudantil e Animal Crossing."
           />
 
 

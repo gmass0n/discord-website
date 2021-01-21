@@ -49,6 +49,7 @@ const SectionOne: React.FC = () => {
             objectFit="contain"
             loading="eager"
             quality={100}
+            alt="Imagem estilizada de um servidor do Discord com vários canais para fotos de animaizinhos, estudo, jogos e culinária."
           />
 
           <article>
