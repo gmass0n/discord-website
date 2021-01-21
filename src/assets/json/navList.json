@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Produto",
+    "items": [
+      {
+        "title": "Baixar",
+        "url": "https://discord.com/download"
+      },
+      {
+        "title": "Por que usar o Discord?",
+        "url": "https://discord.com/why-discord-is-different"
+      },
+      {
+        "title": "Inspiração",
+        "url": "https://discord.com/inspiration"
+      },
+      {
+        "title": "Faculdade",
+        "url": "https://discord.com/college"
+      },
+      {
+        "title": "Nitro",
+        "url": "https://discord.com/nitro"
+      },
+      {
+        "title": "Status",
+        "url": "https://status.discord.com"
+      }
+    ]
+  },
+  {
+    "title": "Empresa",
+    "items": [
+      {
+        "title": "Sobre",
+        "url": "https://discord.com/company"
+      },
+      {
+        "title": "Empregos",
+        "url": "https://discord.com/jobs"
+      },
+      {
+        "title": "Marca",
+        "url": "https://discord.com/branding"
+      },
+      {
+        "title": "Sala de imprensa",
+        "url": "https://discord.com/newsroom"
+      },
+      {
+        "title": "Loja",
+        "url": "https://discordmerch.com"
+      }
+    ]
+  },
+  {
+    "title": "Recursos",
+    "items": [
+      {
+        "title": "Suporte",
+        "url": "https://support.discord.com/hc/pt-br"
+      },
+      {
+        "title": "Segurança",
+        "url": "https://discord.com/safety"
+      },
+      {
+        "title": "Blog",
+        "url": "https://blog.discord.com"
+      },
+      {
+        "title": "Comentários",
+        "url": "https://feedback.discord.com"
+      },
+      {
+        "title": "Parceiros",
+        "url": "https://discord.com/partners"
+      },
+      {
+        "title": "Verificação",
+        "url": "https://discord.com/verification"
+      },
+      {
+        "title": "Desenvolvedores",
+        "url": "https://discord.com/developers/docs"
+      },
+      {
+        "title": "StreamKit",
+        "url": "https://discord.com/streamkit"
+      },
+      {
+        "title": "Código Aberto",
+        "url": "https://discord.com/open-source"
+      },
+      {
+        "title": "Segurança",
+        "url": "https://discord.com/security"
+      },
+      {
+        "title": "Moderation",
+        "url": "https://discord.com/moderation"
+      }
+    ]
+  },
+  {
+    "title": "Política",
+    "items": [
+      {
+        "title": "Termos",
+        "url": "https://discord.com/terms"
+      },
+      {
+        "title": "Privacidade",
+        "url": "https://discord.com/privacy"
+      },
+      {
+        "title": "Diretrizes",
+        "url": "https://discord.com/guidelines"
+      },
+      {
+        "title": "Reconhecimentos",
+        "url": "https://discord.com/acknowledgements"
+      },
+      {
+        "title": "Licenças",
+        "url": "https://discord.com/licenses"
+      }
+    ]
+  }
+]
