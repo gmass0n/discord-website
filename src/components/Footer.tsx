@@ -39,29 +39,29 @@ const Footer: React.FC<IProps> = ({ navList = [] }) => {
       <Content>
         <nav>
           <div>
-            <h4>Seu lugar para conversar</h4>
+            <h1>Seu lugar para conversar</h1>
 
             <ul>
               <li>
-                <a href="https://www.twitter.com/discord">
+                <a href="https://www.twitter.com/discord" aria-label="Twitter do Discord.">
                   <FaTwitter />
                 </a>
               </li>
 
               <li>
-                <a href="https://www.twitter.com/discord">
+                <a href="https://www.instagram.com/discord" aria-label="Instagram do Discord.">
                   <FaInstagram />
                 </a>
               </li>
 
               <li>
-                <a href="https://www.twitter.com/discord">
+                <a href="https://www.facebook.com/discord" aria-label="Facebook do Discord.">
                   <FaFacebookSquare />
                 </a>
               </li>
 
               <li>
-                <a href="https://www.twitter.com/discord">
+                <a href="https://www.youtube.com/discord" aria-label="Youtube do Discord.">
                   <FaYoutube />
                 </a>
               </li>

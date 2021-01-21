@@ -20,7 +20,7 @@ export const Content = styled.div`
       width: 100%;
       margin-right: 40px;
 
-      h4 {
+      h1 {
         color: ${({ theme }) => theme.colors.brand};
         font-weight: 600;
         font-size: 28px;
