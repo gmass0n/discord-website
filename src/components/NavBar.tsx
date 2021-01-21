@@ -15,6 +15,7 @@ const NavBar: React.FC = () => {
             height={38}
             objectFit="contain"
             quality={100}
+            alt="Discord logo."
           />
         </a>
 

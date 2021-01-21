@@ -86,13 +86,14 @@ const Footer: React.FC<IProps> = ({ navList = [] }) => {
         <hr />
 
         <div>
-          <button type="button" onClick={handleScrollToTop}>
+          <button type="button" onClick={handleScrollToTop} aria-label="Clickable logo icon">
             <Image
               src={logoImg}
               width={124}
               height={38}
               objectFit="contain"
               quality={100}
+              alt="Discord logo."
             />
           </button>
 

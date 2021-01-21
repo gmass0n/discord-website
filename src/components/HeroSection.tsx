@@ -67,7 +67,7 @@ const HeroSection: React.FC = () => {
                   placeholder="Insira um nome de usuário"
                 />
 
-                <button type="submit">
+                <button type="submit" aria-label="Username form submit button.">
                   <FiArrowRight />
                 </button>
               </form>
