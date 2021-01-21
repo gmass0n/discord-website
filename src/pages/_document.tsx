@@ -50,6 +50,8 @@ export default class MyDocument extends Document {
           <link rel="preload" href="/fonts/Whitney-Bold.woff" as="font" crossOrigin="" />
 
           <link rel="preload" href="/fonts/Archivo-Black.woff" as="font" crossOrigin="" />
+
+          <meta name="description" content="O Discord é o jeito mais fácil de se comunicar por voz, vídeo e texto. Converse, curta e fique perto de seus amigos e comunidades."/>
         </Head>
 
         <body>
